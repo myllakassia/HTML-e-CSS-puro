@@ -1,0 +1,81 @@
+body{
+    padding: 20px;
+    padding-bottom: 500px;
+}
+p {
+    color: blueviolet;
+    font-size: 20px;
+}
+/* Classes e Ids */
+ .meu-paragrafo {
+    background-color: bisque;
+    color: rgb(43, 83, 70);
+ }
+
+ #titulo-principal {
+    background-color: rgb(169, 160, 102);
+    color: black;
+    padding: 10px;
+    font-family: 'Lucida Sans';
+ }
+
+ /* Elementos da páginas, listas */
+
+ *{
+    font-family: Arial;
+ }
+
+ p, h1 {
+    border-bottom: 1px solid red;
+ }
+
+ .nome-da-cor {
+    color: pink;
+ }
+
+ .hexa {
+    color: #707fc3;
+    background-color: #333;
+ }
+
+ .rgb {
+    color: rgb(177, 173, 122);
+ }
+ /*FONTES */
+
+ .serifada {
+    font-family: Georgia;
+ }
+
+ .sem-serifa{
+    font-family: Helvetica;
+ }
+
+ .mono-espacada {
+    font-family: 'Courier New';
+ }
+
+ .tamanho-fonte-grande {
+    font-size: 64px;
+ }
+
+ .tamanho-fonte-pequena {
+    font-size: 12px;
+ }
+
+ .peso-fonte {
+    font-weight: 700;
+ }
+ .peso-fonte1 {
+    font-style: italic;
+ }
+
+ /*box-model*/
+
+ .box-model {
+    width: 200px;
+    height: 100px;
+    border: 1px solid blue;
+    padding: 20px;
+    margin: 20px;
+ }
